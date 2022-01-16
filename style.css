@@ -1,19 +1,10 @@
-#left {
-    margin-right: auto;
+div
+{
+    margin: 10px;
+    width: 48%;
 }
-#right {
-    margin-left: auto;
-}
-h1 {
-    float: none;
-}
-button {
-    text-align: center;
-    bottom: 0px;
-}
-body {
-    text-align: center;
-}
-hr {
+#showParagraph1 , #showParagraph2
+{
     width: 100%;
+    margin: 10px;
 }
